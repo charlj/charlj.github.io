@@ -1,1 +1,20 @@
+title: <p align="center"> Charl Jooste </p>
+
+logo: "/images/picture.png?raw=true"
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/charl-jooste-83608928/">LinkedIn</a> |
+  <a href="https://ideas.repec.org/f/pjo317.html/">REPEC</a> |
+  <a href="https://github.com/charlj">GitHub</a>
+  </p>
+  
+  <p align="justify">
+  I am a senior economist working for the World Bank.
+  <br><br>
+  My main work entails building macroeconomic models. Lately I am working on the economics of climate change and the interlinkages between regulatory reform and productivity.
+  <br><br>
+  </p>
+  
 theme: jekyll-theme-minimal
