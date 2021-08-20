@@ -1,5 +1,5 @@
 ---
-title: "TEstimating and Calibrating MFMod: A Panel Data Approach to Identifying the Parameters of Data Poor Countries in the World Bank's Structural Macro Model"
+title: "Estimating and Calibrating MFMod: A Panel Data Approach to Identifying the Parameters of Data Poor Countries in the World Bank's Structural Macro Model"
 collection: publications
 permalink: /publication/2019-07-01-MFMODPANEL
 excerpt: 'This paper summarizes the World Bank's approach to identifying parameters for key equations in its macro structural model for countries where short sample sizes or major structural changes render traditional time-series approaches infeasible or yield unstable estimates.'
