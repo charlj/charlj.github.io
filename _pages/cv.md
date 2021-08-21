@@ -18,11 +18,11 @@ Work experience
 ======
 * 2018-Current: World Bank
   * Senior Economist
-  * Duties included: Help develop and maintain MFMod (the global model of the World Bank) 
+  * Duties included: Help develop and maintain MFMod (the global model of the World Bank); inputs into Bank reports
   
 * 2015-2018: World Bank
   * Economist
-  * Duties included: Help develop and maintain MFMod (the global model of the World Bank) 
+  * Duties included: Help develop and maintain MFMod (the global model of the World Bank); inputs into Bank reports 
   
 * 2012-2014: National Treasury South Africa
   * Director
@@ -38,7 +38,7 @@ Work experience
   
 Skills
 ======
-* Economic modeling
+* Economic and statiscal analysis
 * Economic modeling
   * Macro structural models
   * DSGE models
