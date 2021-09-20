@@ -9,6 +9,18 @@ author_profile: true
 
 # Some toy examples (mainly for recalling)
 ---
+### Your model is not necessarily better than mine
+
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](htmls/ModelCritique.html)
+
+<div style="text-align: justify">This post discusses similarities between macrostructural and DSGE models. We need to be careful in critisizing models that don't conform to our biases.</div>
+<!---
+<br>
+<center><img src="images/breast-cancer.png"/></center>
+<br>
+-->
+---
+
 
 ### The link between climate vulnerabilities and debt interest costs
 
