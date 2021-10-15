@@ -11,13 +11,13 @@ A short post about some of the design issues regarding the macroeconomics of cli
 
 # Background material
 
-For a decent reference source see this [appication](https://openknowledge.worldbank.org/handle/10986/36307) to Pakistan. We discuss the types of macroeconomic models, but try to make things practical. The paper goes into a fair bit of detail on how to model carbon policy (inclusive of formal-informal labor markets) and the modeling of climate damages and potential for adaptation.
+For a decent reference source see this [application](https://openknowledge.worldbank.org/handle/10986/36307) to Pakistan. We discuss the types of macroeconomic models, but try to make things practical. The paper goes into a fair bit of detail on how to model carbon policy (inclusive of formal-informal labor markets) and the modeling of climate damages and potential for adaptation.
 
 # Frameworks
 
 The diagram below represents a simplistic overview of how climate change and climate policy can interact with macroeconomics. 
 
-![Framework](../images/Climate/CCRepresentation.png "Framework")
+![Framework](CCRepresentation.png "Framework")
 
 The blue frames represent climate policies, which can be summarized as:
 
