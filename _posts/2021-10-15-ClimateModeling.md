@@ -17,7 +17,7 @@ For a decent reference source see this [application](https://openknowledge.world
 
 The diagram below represents a simplistic overview of how climate change and climate policy can interact with macroeconomics. 
 
-![Framework](/_posts/CCRepresentation.png "Framework")
+![Framework](/images/Climate/CCRepresentation.png "Framework")
 
 The blue frames represent climate policies, which can be summarized as:
 
@@ -51,7 +51,7 @@ The diagram below illustrates an approach to modeling the energy sector. Consump
 - At what rate can new power be built from renewables? This requires a detailed modeling of the costs in producing renewable power and the time it takes to build that new capacity (in some countries it may take many years).
 - Historical estimates on the elasticity of substitution requires a lot of thought. In the diagram below we illustrate a simple model response to three elasticities of substitution. The top row illustrates aggregate consumption response to an increase in the price of good 1, while the bottom row represents the share of good 1 in the consumption basket. The left panel is a low elasticity of substitution. When prices rise for consumption good 1, the aggregate impact is large, while the share hardly changes. The right panel shows that a high elasticity of substitution cushions the impact on consumption, while the share of consumption good 1 falls materially. **In all cases, a carbon price will reduce emissions, but in the case when the elasticity of substitution is small, it will do so by decreasing aggregate demand as a whole, instead of reducing fossil fuels in the consumption or production basket.**
 
-![Elasticity](C:\Users\wb481167\OneDrive - WBG\Documents\GitHub\charlj.github.io\images\Climate\Elasticity.png "Elasticity")
+![Elasticity](/images/Climate/Elasticity.png "Elasticity")
 
 To overcome some of these complexities, it makes sense to connect macroeconomic models to energy planning systems such as [IIASA's MESSAGE](https://iiasa.ac.at/web/home/research/researchPrograms/Energy/MESSAGE.en.html) or [World Bank EPM](https://www.researchgate.net/publication/325534590_World_Bank_Electricity_Planning_Model_EPM_Mathematical_Formulation_World_Bank_Electricity_Planning_Model).
 
@@ -59,7 +59,7 @@ To overcome some of these complexities, it makes sense to connect macroeconomic 
 
 Modeling damages are tricky! Natural disasters are unknown events. The **frequency** and **intensity** of damages can best be described as probability distributions. This makes planning for them really complicated. Natural disasters have different economic channels. The figure below describes a mechanism:
 
- ![Damages](C:\Users\wb481167\OneDrive - WBG\Documents\GitHub\charlj.github.io\images\Climate\Damages.png "Damages")
+ ![Damages](/images/Climate/Damages.png "Damages")
 
  We think of changes in temperature and rainfall to be driven by human activities and natural forces. This then changes weather patterns, with result being changes in the frequency and intensity of natural disasters. Natural disasters affect agricultural crops, it destroys capital, heat affects labor productivity etc.
 
