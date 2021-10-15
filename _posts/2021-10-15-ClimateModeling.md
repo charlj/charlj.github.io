@@ -17,7 +17,7 @@ For a decent reference source see this [appication](https://openknowledge.worldb
 
 The diagram below represents a simplistic overview of how climate change and climate policy can interact with macroeconomics. 
 
-![Framework](C:\Users\wb481167\OneDrive - WBG\Documents\GitHub\charlj.github.io\images\Climate\CCRepresentation.png "Framework")
+![Framework](../images/Climate/CCRepresentation.png "Framework")
 
 The blue frames represent climate policies, which can be summarized as:
 
@@ -70,7 +70,8 @@ Modeling damages are tricky! Natural disasters are unknown events. The **frequen
  - They are uncertain. A policy approach would be to plan for expected damages, roughly equal to the annual average losses associated with the natural disaster. This can be approximated by taking the weight (e.g., the probability of an event) multiplied by the loss given the occurrence of that event.
  - Damages often neglect tipping points [see this illustration as an example](https://www.carbonbrief.org/explainer-nine-tipping-points-that-could-be-triggered-by-climate-change). Local damages may be much larger when tipping points occur.
 
-  ## Conclusion
+ 
+## Conclusion
 
   Modeling damages should be central in highlighting the macroeconomic consequences of climate. By no means are the impacts small. Given the uncertain nature, and the potential for absolute devastation, it makes sense to reduce the changes of such catastrophic events materializing. In this case, carbon policy to limit emissions, is an important policy. The costs of carbon policy need not be negative once we consider the benefits when reducing externalities, or the appropriate management of revenues.
 
