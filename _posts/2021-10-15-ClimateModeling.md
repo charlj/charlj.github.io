@@ -17,7 +17,7 @@ For a decent reference source see this [application](https://openknowledge.world
 
 The diagram below represents a simplistic overview of how climate change and climate policy can interact with macroeconomics. 
 
-![Framework](./_posts/CCRepresentation.png "Framework")
+![Framework](/_posts/CCRepresentation.png "Framework")
 
 The blue frames represent climate policies, which can be summarized as:
 
@@ -42,7 +42,7 @@ The power producer produces electricity using fossil fuels or renewables. If a g
 
 The diagram below illustrates an approach to modeling the energy sector. Consumption is bundled via a CES aggregator and the choice of energy also. 
 
-![Power](..\images\Climate\EnergySector.png "Power")
+![Power](/images/Climate/EnergySector.png "Power")
 
 **Note that there are several complexities when modeling energy:**
 
