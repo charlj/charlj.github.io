@@ -1,6 +1,6 @@
 ---
 title: 'Inadequate'
-date: 2022-10-33
+date: 2022-09-23
 permalink: /posts/2022/09/Inadequate/
 tags:
   - Mortality
