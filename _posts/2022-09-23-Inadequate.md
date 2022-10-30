@@ -1,3 +1,14 @@
+---
+title: 'Inadequate'
+date: 2022-10-33
+permalink: /posts/2022/09/Inadequate/
+tags:
+  - Mortality
+  - Sin
+---
+
+A short(ish) post about facing one's inadequacies.
+
 # You are inadequate
 
 There are times in one's life that forces you to reflect on mortality. They become more frequent when your body takes longer to heal from injuries or disease. Reflecting on mortality is an odd thing. Some people wish for the end to come faster to escape all the hurt and confusion of being alive. Some find the thought of death as an anxious meditation on the shortcomings of life. And others reflect on the temporal and infinite aspects of life after death.
