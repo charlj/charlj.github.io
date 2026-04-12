@@ -18,7 +18,7 @@ Work experience
 ======
 * 2026-Current: World Bank
   * Lead Economist
-  * Duties include: Work on macroeconomic frameworks, deb sustainability and running the World Bank's macroeconomic model MFMod.
+  * Duties include: Work on macroeconomic frameworks, debt sustainability and running the World Bank's macroeconomic model MFMod.
 
 * 2018-2026: World Bank
   * Senior Economist
