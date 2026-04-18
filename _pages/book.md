@@ -31,6 +31,8 @@ The book begins by acknowledging South Africa's history of injustice --- colonia
 **Chapter 1: Why Do We Care About Economic Growth?**
 Growth is not an abstract target --- it is the mechanism through which employment rises, poverty falls, and opportunity expands. This chapter confronts the misguided narrative that growth objectives are themselves misguided, comparing Marxist, Neo-Classical, and Post-Keynesian perspectives with South African evidence.
 
+[![Download Chapter 1](https://img.shields.io/badge/PDF-Download_Chapter_1-blue?logo=adobe-acrobat-reader&logoColor=white)]({{ base_path }}/files/Book_ZAF_Ch1_GrowthWhy.pdf)
+
 **Chapter 2: What Drives Economic Growth?**
 Capital, labor, total factor productivity, and intermediate inputs --- South Africa underperforms on all of them. The chapter traces why: poor education, electricity failures, overregulation, and a collapse in trade openness. TFP decline is framed as fundamentally an honesty problem.
 
