@@ -139,7 +139,7 @@ where:
 - $u_t^C$ builds coercive or physical control capacity;
 - $u_t^I$ purchases political, legal, informational, and institutional influence.
 
-For each strategic asset $m\in\{L,C,I\}$, define the coalition's perceived value as a blend of current and discounted future value:
+For each strategic asset $m\in\lbrace L,C,I\rbrace$, define the coalition's perceived value as a blend of current and discounted future value:
 
 $$
 V_t^m
